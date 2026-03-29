@@ -3,7 +3,7 @@
     "path": "~/Library/CloudStorage/OneDrive-TheUniversityofTexasatAustin/Jobs & CV/2025/Lux/presentation/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "3203685884",
+    "hash": "1437855591",
     "contents": "",
     "dirty": false,
     "created": 1774808692243.0,
@@ -11,14 +11,16 @@
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "269,0",
+        "scrollLine": "255"
     },
     "folds": "",
-    "lastKnownWriteTime": 1774808699,
+    "lastKnownWriteTime": 1774810860,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1774808699973,
+    "last_content_update": 1774810860807,
     "read_only": false,
     "read_only_alternatives": []
 }

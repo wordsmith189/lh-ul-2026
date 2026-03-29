@@ -39,7 +39,7 @@ p_load(tidyverse, scales, RColorBrewer, gt)
 
 ## Overview of this lecture
 
-::: {.incremental}
+::: {.fragment}
 1. The goals of sociolinguistic fieldwork, then and now
 2. Two transformations since Labov's pioneering work
 3. Case Study I — Jamaicans in Toronto: the outsider fieldworker
@@ -51,7 +51,7 @@ p_load(tidyverse, scales, RColorBrewer, gt)
 
 ### The sociolinguistic interview: a foundational tool
 
-::: {.incremental}
+::: {.fragment}
 - Central data-elicitation method since Labov's Lower East Side study (1966)
 - Goal: access the speaker's **vernacular** — the style used in casual, unmonitored speech
 - Labov's key insight: social stratification of language is most clearly visible in the vernacular
@@ -68,7 +68,7 @@ p_load(tidyverse, scales, RColorBrewer, gt)
 
 ### Observer's Paradox
 
-::: {.incremental}
+::: {.fragment}
 - The fundamental dilemma of sociolinguistic fieldwork (Labov 1972)
 - *We want to study how people speak when not being observed — but the act of observation changes how they speak*
 - No escape from the paradox: the interview event is created by the researcher
@@ -119,7 +119,7 @@ As De Fina & Perrino (2011: 4) put it: "the interview was seen more as a context
 
 ### Connectivity and dialect leveling
 
-::: {.incremental}
+::: {.fragment}
 - Since the 1960s: exponential growth in speaker *mobility* and *connectivity*
 - Both face-to-face (migration, travel, urbanization) and *virtual* (social media, streaming, online community)
 - Speakers are no longer embedded in a single, bounded speech community
@@ -134,7 +134,7 @@ As De Fina & Perrino (2011: 4) put it: "the interview was seen more as a context
 
 ### The unbounded speech community
 
-::: {.incremental}
+::: {.fragment}
 - Labov's Lower East Side speakers: dense, multiplex social networks (Milroy 1980)
 - Today's urban speakers: weak-tie, geographically dispersed networks
 - Diaspora communities, transnational families, digital communities of practice
@@ -151,7 +151,7 @@ Speakers today orient to multiple, overlapping reference varieties — not a sin
 
 ### Semiotic complexity and digital media
 
-::: {.incremental}
+::: {.fragment}
 - Digital media have produced an infinitely richer semiotic landscape
 - **Performativity:** speakers can style-shift, voice characters, play with personae — online and off
 - **Intertextuality:** memes, genre-mixing, pop-cultural reference as everyday talk
@@ -162,13 +162,15 @@ Speakers today orient to multiple, overlapping reference varieties — not a sin
 Speakers have developed elaborate **multirepertorial** and **intermedial competence** — they can do far more with language than their parents could.
 :::
 
+
+
 ## {.smaller}
 
 ### A reformed semiotic world
 
 What has changed for speakers in western urban communities:
 
-::: {.incremental}
+::: {.fragment}
 - Reformed **politeness norms** — directness, anti-deference, irony as default
 - Heightened **identity politics** — speakers are highly aware of the social meanings of linguistic choices
 - **Ontological instability** (postmodern sense) — the authentic "true self" is a fiction; performance is the norm
@@ -201,7 +203,7 @@ What has changed for speakers in western urban communities:
 
 **Research context:**
 
-::: {.incremental}
+::: {.fragment}
 - Ongoing ethnographic and sociolinguistic study of the Jamaican diaspora community in Toronto
 - Primary focus: vocalic variation, dialect contact, and repertoire management
 - Fieldwork using sociolinguistic interviews: audio and video recording
@@ -217,7 +219,7 @@ Lars Hinrichs is a white, German-born academic — an *outsider* on multiple dim
 
 ### The fieldworker effect in diaspora contexts
 
-::: {.incremental}
+::: {.fragment}
 - The choice of video vs. audio recording alone shapes speaker style (Hinrichs 2018)
 - Video increases awareness → performative quality → *audience design* (Bell 1984; 2001) for the camera
 - But: this performativity is *informative*, not merely noise
@@ -230,11 +232,48 @@ Rather than trying to *erase* the fieldworker effect, we can *embed it reflexive
 :::
 :::
 
+## 
+
+**Clip | Carrie on the phone**
+
+:::{style="width: 90%; margin: auto;"}
+
+```{r}
+p_load(gt)
+
+df_clip_1 <-  import('av/stan_edit.xlsx') |> 
+  filter(!is.na(Speaker)) 
+
+df_clip_1 |> 
+  gt() |> 
+  tab_style(
+    style = cell_text(v_align = "top",
+                      size = px(20) ),
+    locations = cells_body(columns = everything())
+  ) |> 
+  tab_style(
+    style = cell_text(weight = "bold"),
+    locations = cells_column_labels()
+  ) 
+
+```
+
+:::
+
+## 
+
+<video controls width="90%">
+  <source src='av/stan_edit.mp4' type="video/mp4">
+  Your browser does not support the video element.
+</video>
+
+
+
 ## {.smaller}
 
 ### Key finding: performativity is data
 
-::: {.incremental}
+::: {.fragment}
 - Speakers in the Toronto Jamaican community actively *perform* for the researcher
 - Style-shifting between Jamaican Creole and Canadian English is not random — it is audience-designed
 - The "observer" triggers code-switching that reveals the speaker's *range of competence*
@@ -253,7 +292,7 @@ The observer's paradox is not merely a problem to be minimized — it can be tur
 
 Based on Hinrichs (2018) and the broader Toronto fieldwork:
 
-::: {.incremental}
+::: {.fragment}
 1. Fieldworker identity shapes data in systematic, analyzable ways
 2. Reflexive embedding of that effect enriches interpretation
 3. The sociolinguistic interview, recorded with video, elicits *all* of a speaker's styles — including highly performative ones
@@ -284,7 +323,7 @@ Many home communities are deeply ambivalent toward UT Austin — the university 
 
 ## 
 
-**Clip 1: DelRio_DC_07022024**
+**Clip: DelRio_DC_07022024**
 
 :::{style="width: 90%; margin: auto;"}
 
@@ -386,7 +425,7 @@ ggplot(df_schematic, aes(outcome, n, fill = outcome)) +
 
 ## {.smaller}
 
-**Clip 4 | Response subtypes: No**
+**Clip | Response subtypes: No | Donna_AR**
 
 <br>
 
@@ -421,7 +460,7 @@ df_clip_4 |>
 
 ## {.smaller}
 
-**Clip 5 | Response subtypes: No**
+**Clip | Response subtypes: No | Beaumont_MM**
 
 <br>
 
