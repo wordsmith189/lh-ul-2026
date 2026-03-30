@@ -47,36 +47,35 @@ p_load(tidyverse, scales, RColorBrewer, gt)
 5. Conclusions and methodological implications
 :::
 
-## {.smaller}
+## 
 
 ### The sociolinguistic interview: a foundational tool
 
 ::: {.fragment}
 - Central data-elicitation method since Labov's Lower East Side study (1966)
-- Goal: access the speaker's **vernacular** — the style used in casual, unmonitored speech
-- Labov's key insight: social stratification of language is most clearly visible in the vernacular
-- The interview thus tries to *create conditions* in which the vernacular can emerge
+- Social stratification of language is most clearly visible in the vernacular
+- Interview tries to *create conditions* in which the vernacular can emerge
 :::
 
 ::: {.fragment}
 ::: {.callout-note appearance="simple"}
-"The style which is most regular in its structure and most systematic in its relation to social stratification is the **vernacular** — the style in which the minimum attention is paid to speech." (Labov 1972a: 208)
+"The style which is most regular in its structure and most systematic in its relation to social stratification is the **vernacular** — the style in which the minimum attention is paid to speech." (Labov 1972a: 208; 1984: 30)
 :::
 :::
 
-## {.smaller}
+
+## 
 
 ### Observer's Paradox
 
 ::: {.fragment}
-- The fundamental dilemma of sociolinguistic fieldwork (Labov 1972)
 - *We want to study how people speak when not being observed — but the act of observation changes how they speak*
-- No escape from the paradox: the interview event is created by the researcher
+- No escape from the fundamental paradox: the interview event is created by the researcher
 :::
 
 ::: {.fragment}
 ::: {.callout-tip appearance="simple"}
-As De Fina & Perrino (2011: 4) put it: "the interview was seen more as a context to be erased than as an interactional event whose specificity should be understood, and perhaps even exploited."
+"The interview was seen more as a context to be erased than as an interactional event whose specificity should be understood, and perhaps even exploited." (De Fina & Perrino 2011: 4)
 :::
 :::
 
@@ -627,5 +626,8 @@ Labov, W. (1966). *The social stratification of English in New York City*. Cente
 Labov, W. (1972a). *Sociolinguistic patterns*. University of Pennsylvania Press.
 
 Labov, W. (1972b). *Language in the inner city*. University of Pennsylvania Press.
+
+Labov, W. (1984). Field methods of the project on linguistic change and variation. In J. Baugh & J. Sherzer, eds., *Language in use: Readings in sociolinguistics*, Englewood Cliffs, NJ: Prentice Hall, pp. 28–66.
+
 
 Sneller, B. & Barnhardt, J. (2023). Pop-cultural context in the sociolinguistic interview. *Language Variation and Change*, e12484.
