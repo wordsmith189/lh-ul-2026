@@ -47,7 +47,7 @@ p_load(tidyverse, scales, RColorBrewer, gt)
 5. Conclusions and methodological implications
 :::
 
-## {.smaller}
+## 
 
 ### The sociolinguistic interview: a foundational tool
 
@@ -137,7 +137,7 @@ p_load(tidyverse, scales, RColorBrewer, gt)
 ::::
 
 ::: {.fragment}
-::: {.callout-tip appearance="simple"}
+::: {.callout-note appearance="simple"}
 Speakers have developed elaborate **multirepertorial** and **intermedial competence** — they can do far more with language than their parents could.
 :::
 :::
@@ -301,8 +301,14 @@ Lars Hinrichs is a white, German-born academic — an *outsider* on multiple dim
 
 ::: {.incremental}
 - Filming participant as she hosts her live radio show with different guests (on/off air)
-- Following participant through her (narrated) daily routines
-- Filming a hip hop group during rehearsal, who frequently speak to camera as in a music video
+- Following participants through their (narrated) daily routines
+- Filming a hip hop group during rehearsal, who frequently speak to camera
+:::
+
+::: {.fragment}
+::: {.callout-tip appearance="simple"}
+Intertextual play with genres of media discourse: **reality TV** and **music videos**
+:::
 :::
 
 
@@ -326,10 +332,10 @@ Lars Hinrichs is a white, German-born academic — an *outsider* on multiple dim
 ### Home to Texas (H2TX)
 
 ::: {.fragment}
-- Large-scale decentralized fieldwork project
-- Over 70 communities and municipalities — rural towns, suburbs, cities
+- Large-scale, decentralized fieldwork project
+- Over 70 communities — <br>rural towns, suburbs, cities
 - Key advantage: student fieldworkers have natural community access
-- Observer's paradox still operative: fieldworker must manage community skepticism
+- Observer's paradox remains: <br>fieldworker must manage community skepticism
 :::
 
 ::: {.fragment}
@@ -516,7 +522,7 @@ df_clip_5 |>
 - Phatic communion around CT was rarely attained.
 - Of the "no" answers, most avoid "trouble" by offering explanations (no memory, personal values), a laugh, "No, ma'am", or similar. 
 - Of the "yes" answers, many failed to provide stories, offered brief jokes, or betrayed discomfort. 
-- Inadvertently, the question may work best to elicit **moral indignation**, one of Labov's (2013) "Big Three".
+- Inadvertently, the question frequently elicits **moral indignation**, one of Labov's (2013) "Big Three".
 :::
 
 ## {.smaller}
