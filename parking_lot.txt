@@ -1,0 +1,30 @@
+## {.smaller}
+
+### A reformed semiotic world
+
+What has changed for speakers in western urban communities:
+
+::: {.fragment}
+- Reformed **politeness norms** — directness, anti-deference, irony as default
+- Heightened **identity politics** — speakers are highly aware of the social meanings of linguistic choices
+- **Ontological instability** (postmodern sense) — the authentic "true self" is a fiction; performance is the norm
+- Tolerance for, and enjoyment of, ambiguity and roleplay in conversation
+:::
+
+::: {.fragment}
+::: {.callout-tip appearance="simple"}
+**The problem:** Labov's DoD question assumes a speaker who has a stable, unified self to "reveal." That speaker is increasingly rare.
+:::
+:::
+
+## {.smaller}
+
+### Why Labov's first-hour toolkit struggles today
+
+| Labov's assumption | Contemporary reality |
+|---|---|
+| Bounded speech community | Dispersed, mobile networks |
+| Stable vernacular style | Fluid, multirepertorial identity |
+| Emotional authenticity via trauma | Ironic detachment; identity awareness |
+| Low self-monitoring = true vernacular | Self-presentation is always performative |
+| Interview as context to erase | Interview as interactional event |

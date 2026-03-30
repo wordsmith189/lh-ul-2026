@@ -37,7 +37,7 @@ p_load(tidyverse, scales, RColorBrewer, gt)
 
 # Introduction {background-color="#2c3e50"}
 
-## Overview of this lecture
+## Outline
 
 ::: {.fragment}
 1. The goals of sociolinguistic fieldwork, then and now
@@ -47,35 +47,31 @@ p_load(tidyverse, scales, RColorBrewer, gt)
 5. Conclusions and methodological implications
 :::
 
-## 
+## {.smaller}
 
 ### The sociolinguistic interview: a foundational tool
 
 ::: {.fragment}
 - Central data-elicitation method since Labov's Lower East Side study (1966)
-- Social stratification of language is most clearly visible in the vernacular
-- Interview tries to *create conditions* in which the vernacular can emerge
-:::
-
-::: {.fragment}
-::: {.callout-note appearance="simple"}
-"The style which is most regular in its structure and most systematic in its relation to social stratification is the **vernacular** — the style in which the minimum attention is paid to speech." (Labov 1972a: 208; 1984: 30)
-:::
+- **Single dimension** of styles: vernacular to formal (attention to speech)
+- Social stratification of language is **most clearly visible** in the vernacular (Labov 1972: 208; 1984: 30)
+- Interview tries to **create conditions** in which the vernacular can emerge
 :::
 
 
-## {.smaller}
+
+
+## 
 
 ### Observer's Paradox
 
 ::: {.fragment}
-- *We want to study how people speak when not being observed — but the act of observation changes how they speak*
-- Fundamental paradox: the interview event is created by the researcher
+- *We want to study how people speak when **not being observed** — but the act of observation **changes** how they speak*
 :::
 
 ::: {.fragment}
 ::: {.callout-tip appearance="simple"}
-"The interview was seen more as a context to be erased than as an interactional event whose specificity should be understood, and perhaps even exploited." (De Fina & Perrino 2011: 4)
+"The interview was seen more as a context to be erased than as an interactional event whose specificity should be understood, and perhaps even exploited." <br>(De Fina & Perrino 2011: 4)
 :::
 :::
 
@@ -102,8 +98,7 @@ p_load(tidyverse, scales, RColorBrewer, gt)
 ### Are Labov's goals still relevant today?
 
 ::: {.fragment}
-- **Yes** — but the toolkit to achieve them needs updating
-- Sneller & Barnhardt (2023): the sociolinguistic interview must be embedded in *pop-cultural context* to generate natural speech
+- **Yes** — but the toolkit must be (a) updated and (b) adapted to each project's context
 - Critiques of DoD: ethical concerns (trauma elicitation), effectiveness doubts (Milroy 1987, Butters 2000)
 - The interview as an interactional event in its own right (Johnstone 2006, Schilling 2008, De Fina & Perrino 2011)
 :::
@@ -114,41 +109,22 @@ p_load(tidyverse, scales, RColorBrewer, gt)
 
 # Two Transformations {background-color="#1a5276"}
 
-## Transformation I {.smaller}
+## {.smaller}
 
-### Connectivity and dialect leveling
+### Dialect leveling and semiotic complexity
 
+::::{.columns}
+:::{.column}
 ::: {.fragment}
 - Since the 1960s: exponential growth in speaker *mobility* and *connectivity*
 - Both face-to-face (migration, travel, urbanization) and *virtual* (social media, streaming, online community)
-- Speakers are no longer embedded in a single, bounded speech community
+- Today's urban speakers: weak-tie, geographically dispersed networks
 - Greater contact with other varieties → **dialect leveling** (Trudgill 1986, Kerswill 2003)
 :::
 
-::: {.fragment}
-**Consequence for fieldwork:** The bounded, locally coherent vernacular that Labov presupposed is increasingly hard to find — or may not exist.
 :::
 
-## {.smaller}
-
-### The unbounded speech community
-
-::: {.fragment}
-- Labov's Lower East Side speakers: dense, multiplex social networks (Milroy 1980)
-- Today's urban speakers: weak-tie, geographically dispersed networks
-- Diaspora communities, transnational families, digital communities of practice
-- The notion of a **home vernacular** is destabilized
-:::
-
-::: {.fragment}
-::: {.callout-tip appearance="simple"}
-Speakers today orient to multiple, overlapping reference varieties — not a single local target.
-:::
-:::
-
-## Transformation II {.smaller}
-
-### Semiotic complexity and digital media
+:::{.column}
 
 ::: {.fragment}
 - Digital media have produced an infinitely richer semiotic landscape
@@ -157,42 +133,18 @@ Speakers today orient to multiple, overlapping reference varieties — not a sin
 - **Intermediality:** language, image, sound, and video are routinely combined
 :::
 
-::: {.fragment}
-Speakers have developed elaborate **multirepertorial** and **intermedial competence** — they can do far more with language than their parents could.
 :::
-
-
-
-## {.smaller}
-
-### A reformed semiotic world
-
-What has changed for speakers in western urban communities:
-
-::: {.fragment}
-- Reformed **politeness norms** — directness, anti-deference, irony as default
-- Heightened **identity politics** — speakers are highly aware of the social meanings of linguistic choices
-- **Ontological instability** (postmodern sense) — the authentic "true self" is a fiction; performance is the norm
-- Tolerance for, and enjoyment of, ambiguity and roleplay in conversation
-:::
+::::
 
 ::: {.fragment}
 ::: {.callout-tip appearance="simple"}
-**The problem:** Labov's DoD question assumes a speaker who has a stable, unified self to "reveal." That speaker is increasingly rare.
+Speakers have developed elaborate **multirepertorial** and **intermedial competence** — they can do far more with language than their parents could.
 :::
 :::
 
-## {.smaller}
 
-### Why Labov's first-hour toolkit struggles today
 
-| Labov's assumption | Contemporary reality |
-|---|---|
-| Bounded speech community | Dispersed, mobile networks |
-| Stable vernacular style | Fluid, multirepertorial identity |
-| Emotional authenticity via trauma | Ironic detachment; identity awareness |
-| Low self-monitoring = true vernacular | Self-presentation is always performative |
-| Interview as context to erase | Interview as interactional event |
+
 
 # Case Study I {background-color="#6e2f0f"}
 
@@ -203,13 +155,13 @@ What has changed for speakers in western urban communities:
 **Research context:**
 
 ::: {.fragment}
-- Ongoing ethnographic and sociolinguistic study of the Jamaican diaspora community in Toronto
+- Sociolinguistic study of the Jamaican diaspora community in Toronto
 - Primary focus: vocalic variation, dialect contact, and repertoire management
-- Fieldwork using sociolinguistic interviews: audio and video recording
+- Fieldwork using sociolinguistic interviews: multimedia ethnography
 :::
 
 ::: {.fragment}
-**The core problem:**
+**The core challenge:**
 
 Lars Hinrichs is a white, German-born academic — an *outsider* on multiple dimensions of identity relative to the community.
 :::
@@ -219,77 +171,144 @@ Lars Hinrichs is a white, German-born academic — an *outsider* on multiple dim
 ### The fieldworker effect in diaspora contexts
 
 ::: {.fragment}
-- The choice of video vs. audio recording alone shapes speaker style (Hinrichs 2018)
+- The choice of video vs. audio recording alone shapes speaker style (Hinrichs forthc.)
 - Video increases awareness → performative quality → *audience design* (Bell 1984; 2001) for the camera
-- But: this performativity is *informative*, not merely noise
-- Speakers orient their speech to the fieldworker's outsider identity through style-shifting and intertextual performance
+- **This performativity is *informative***, not merely noise:
+  - Video observation makes the participant framework more complex and loosens constraints of the direct addressee's stylistic range
+  - Participant can be documented while orienting toward different interlocutors and referees
 :::
 
-::: {.fragment}
-::: {.callout-tip appearance="simple"}
-Rather than trying to *erase* the fieldworker effect, we can *embed it reflexively* into our understanding of the data. The interview as co-constructed event reveals the speaker's *full idiolectal repertoire*, not just the vernacular.
-:::
-:::
+## {.smaller}
 
-## 
+**Clip | Carrie takes a series of calls during a thunderstorm**<br>[Patwa insertions in boldface]
 
-**Clip | Carrie on the phone**
+<table>
+  <thead>
+    <tr>
+      <th style="width: 150px;">Speaker</th>
+      <th>Annotation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Carrie</td>
+      <td><strong>greetins - bless</strong></td>
+    </tr>
+    <tr>
+      <td>caller (Isus)</td>
+      <td>yeah - Isus</td>
+    </tr>
+    <tr>
+      <td>Carrie</td>
+      <td>Isus</td>
+    </tr>
+    <tr>
+      <td>caller (Isus)</td>
+      <td>wa gwaan</td>
+    </tr>
+    <tr>
+      <td>Carrie</td>
+      <td><strong>nut'n much,</strong> how you doin'[&nbsp;&nbsp;]<br><strong>yea man</strong> &nbsp;&nbsp;&nbsp; right now is a good time &nbsp;&nbsp; <strong>come forward</strong></td>
+    </tr>
+    <tr>
+      <td>caller (Stan)</td>
+      <td>((inaudible)) but you have fi get him - very important</td>
+    </tr>
+    <tr>
+      <td>Carrie</td>
+      <td>right [&nbsp;&nbsp;] okay so Sanchez right away <strong>dey wa- dey waan link up wid him</strong></td>
+    </tr>
+    <tr>
+      <td>caller (Stan)</td>
+      <td>((inaudible)) dey want Sanchez</td>
+    </tr>
+    <tr>
+      <td>Carrie</td>
+      <td><strong>mi link him but mi figet fi ask him</strong></td>
+    </tr>
+    <tr>
+      <td>Carrie</td>
+      <td>((to Lars)) once I speak to an elder who speaks Patois, no English will come out</td>
+    </tr>
+  </tbody>
+</table>
 
-:::{style="width: 90%; margin: auto;"}
-
-```{r}
-p_load(gt)
-
-df_clip_1 <-  import('av/stan_edit.xlsx') |> 
-  filter(!is.na(Speaker)) 
-
-df_clip_1 |> 
-  gt() |> 
-  tab_style(
-    style = cell_text(v_align = "top",
-                      size = px(20) ),
-    locations = cells_body(columns = everything())
-  ) |> 
-  tab_style(
-    style = cell_text(weight = "bold"),
-    locations = cells_column_labels()
-  ) 
-
-```
-
-:::
-
-## 
+## {.smaller}
 
 <video controls width="90%">
   <source src='av/stan_edit.mp4' type="video/mp4">
   Your browser does not support the video element.
 </video>
 
-
-
 ## {.smaller}
 
-### Key finding: performativity is data
+**Clip | Carrie takes a series of calls during a thunderstorm**<br>[Patwa insertions in boldface]
 
-::: {.fragment}
-- Speakers in the Toronto Jamaican community actively *perform* for the researcher
-- Style-shifting between Jamaican Creole and Canadian English is not random — it is audience-designed
-- The "observer" triggers code-switching that reveals the speaker's *range of competence*
-- This is information that a same-community fieldworker might not elicit
+<table>
+  <thead>
+    <tr>
+      <th style="width: 150px;">Speaker</th>
+      <th>Annotation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Carrie</td>
+      <td><strong>greetins - bless</strong></td>
+    </tr>
+    <tr>
+      <td>caller (Isus)</td>
+      <td>yeah - Isus</td>
+    </tr>
+    <tr>
+      <td>Carrie</td>
+      <td>Isus</td>
+    </tr>
+    <tr>
+      <td>caller (Isus)</td>
+      <td>wa gwaan</td>
+    </tr>
+    <tr>
+      <td>Carrie</td>
+      <td><strong>nut'n much,</strong> how you doin'[&nbsp;&nbsp;]<br><strong>yea man</strong> &nbsp;&nbsp;&nbsp; right now is a good time &nbsp;&nbsp; <strong>come forward</strong></td>
+    </tr>
+    <tr>
+      <td>caller (Stan)</td>
+      <td>((inaudible)) but you have fi get him - very important</td>
+    </tr>
+    <tr>
+      <td>Carrie</td>
+      <td>right [&nbsp;&nbsp;] okay so Sanchez right away <strong>dey wa- dey waan link up wid him</strong></td>
+    </tr>
+    <tr>
+      <td>caller (Stan)</td>
+      <td>((inaudible)) dey want Sanchez</td>
+    </tr>
+    <tr>
+      <td>Carrie</td>
+      <td><strong>mi link him but mi figet fi ask him</strong></td>
+    </tr>
+    <tr>
+      <td>Carrie</td>
+      <td>((to Lars)) once I speak to an elder who speaks Patois, no English will come out</td>
+    </tr>
+  </tbody>
+</table>
+
+## 
+
+### Other examples of video use (Hinrichs forthc.)
+
+::: {.incremental}
+- Filming participant as she hosts her live radio show with different guests (on/off air)
+- Following participant through her (narrated) daily routines
+- Filming a hip hop group during rehearsal, who frequently speak to camera as in a music video
 :::
 
-::: {.fragment}
-**Methodological implication:**
 
-The observer's paradox is not merely a problem to be minimized — it can be turned into an *analytic resource*.
-:::
-
-## {.smaller}
+## 
 
 ### Reflexivity as a methodological stance
-
-Based on Hinrichs (2018) and the broader Toronto fieldwork:
 
 ::: {.fragment}
 1. Fieldworker identity shapes data in systematic, analyzable ways
@@ -302,7 +321,7 @@ Based on Hinrichs (2018) and the broader Toronto fieldwork:
 
 ## {background-iframe="https://www.youtube.com/embed/1GkKVKZJmiw?si=qED101A2aB1T0APj" background-interactive="true"}
 
-## {.smaller}
+## 
 
 ### Home to Texas (H2TX)
 
@@ -310,8 +329,7 @@ Based on Hinrichs (2018) and the broader Toronto fieldwork:
 - Large-scale decentralized fieldwork project
 - Over 70 communities and municipalities — rural towns, suburbs, cities
 - Key advantage: student fieldworkers have natural community access
-- Observer's paradox still operative
-- Fieldworker must manage community skepticism
+- Observer's paradox still operative: fieldworker must manage community skepticism
 :::
 
 ::: {.fragment}
@@ -371,7 +389,7 @@ df_clip_1 |>
 
 ### The "cringe question"
 
-Inspired by Sneller & Barnhardt (2023) on pop-cultural elicitation:
+Inspired by Sneller & Barnhardt (2023) on remote elicitation:
 
 ::: {.fragment}
 > **Interview question 15:**
@@ -495,10 +513,10 @@ df_clip_5 |>
 ## Summary {.smaller}
 
 :::{.fragment}
-- Of the "no" answers, most avoid "trouble" by offering explanations (no memory, personal values), a laugh, "No, ma'am", or similar.
+- Phatic communion around CT was rarely attained.
+- Of the "no" answers, most avoid "trouble" by offering explanations (no memory, personal values), a laugh, "No, ma'am", or similar. 
 - Of the "yes" answers, many failed to provide stories, offered brief jokes, or betrayed discomfort. 
-- Phatic communion around CT was rarely attained. 
-- If it did, the conversational object was something else, e.g. the personal values.
+- Inadvertently, the question may work best to elicit **moral indignation**, one of Labov's (2013) "Big Three".
 :::
 
 ## {.smaller}
@@ -552,7 +570,7 @@ The cringe question presupposes a *pop-cultural* orientation — irony, self-exp
 
 ## {.smaller}
 
-### Comparing the two transformations in the field
+### Synopsis of case studies
 
 | | Toronto Jamaican diaspora | Rural Texas H2TX |
 |---|---|---|
@@ -562,17 +580,9 @@ The cringe question presupposes a *pop-cultural* orientation — irony, self-exp
 | **Fieldworker identity** | Marked outsider — shapes data | UT Austin = cultural outsider |
 | **Key finding** | Performativity as analytic resource | Cultural conservatism blocks phaticity |
 
-# Conclusions {background-color="#2c3e50"}
+# Key Takeaways {background-color="#2c3e50"}
 
-## Conclusions {.smaller}
 
-::: {.fragment}
-1. Labov's goals — eliciting vernacular speech, managing observer's paradox — remain the right goals.
-2. But two transformations (connectivity/dialect leveling; semiotic complexity) have reshaped the social context of the interview.
-3. The "true vernacular" of a bounded speech community is increasingly a fiction — speakers are multirepertorial and mobile.
-4. Labov's elicitation toolkit (DoD question, narrative prompts) is no longer reliable in contemporary western communities.
-5. The fieldworker's identity and relationship to the community must be *reflexively embedded*, not minimized.
-:::
 
 ## Key takeaways {.smaller}
 
@@ -584,21 +594,10 @@ The cringe question presupposes a *pop-cultural* orientation — irony, self-exp
 5. **Train fieldworkers deeply** in the art of follow-up questions and conversational flexibility.
 :::
 
-## {.smaller}
+##
 
-### Looking ahead
-
-::: {.fragment}
-- The sociolinguistic interview will remain indispensable — but it must evolve
-- Future directions: digital/asynchronous data collection; community-participatory methods; auto-ethnographic approaches
-- The "mediatized urban world" offers new methodological possibilities as well as challenges
-- Key question: can we design interview tools that *work with* postmodern semiotic complexity rather than against it?
-:::
-
-::: {.fragment}
 ::: {.callout-tip appearance="simple"}
-The observer's paradox was never really about the observer. It was always about the relationship between researcher and community — and that relationship has never been more complex, or more interesting.
-:::
+The observer's paradox was never  about the observer. It was always about the relationship between researcher and community — and that relationship has never been more complex, or more interesting.
 :::
 
 ##
@@ -625,9 +624,6 @@ Labov, W. (1966). *The social stratification of English in New York City*. Cente
 
 Labov, W. (1972a). *Sociolinguistic patterns*. University of Pennsylvania Press.
 
-Labov, W. (1972b). *Language in the inner city*. University of Pennsylvania Press.
-
 Labov, W. (1984). Field methods of the project on linguistic change and variation. In J. Baugh & J. Sherzer, eds., *Language in use: Readings in sociolinguistics*, Englewood Cliffs, NJ: Prentice Hall, pp. 28–66.
-
 
 Sneller, B. & Barnhardt, J. (2023). Pop-cultural context in the sociolinguistic interview. *Language Variation and Change*, e12484.
